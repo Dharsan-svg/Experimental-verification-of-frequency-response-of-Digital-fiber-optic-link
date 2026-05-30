@@ -69,7 +69,6 @@ Fiber optic links can be used for transmission of both digital and analog signal
 13. Observe detected signal at **TTL OUT** on oscilloscope.  
 
 ---
-
 ## TABULATION
 
 <img width="1600" height="1567" alt="image" src="https://github.com/user-attachments/assets/36eac741-3bb2-48d5-bfb6-e0b4bde421d8" />
